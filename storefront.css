@@ -1,0 +1,33 @@
+body {
+    background-color: black;
+}
+
+.header {
+    /*background-color: firebrick;*/
+    background-image: url(./assets/pizza-sauce.jpg);
+    border: solid black 2px;
+    border-radius: 5px;
+}
+
+.squares {
+    width: 12%;
+    text-align: center;
+    background-color: gray;
+}
+
+.article {
+    background-color: gray;
+    border: solid black 1px;
+    border-radius: 5px;
+    width: 250px;
+    border: solid black 1px;
+    border-radius: 5px;
+    width: 250px;
+}
+
+.right {
+    background-image: url(./assets/Side-pizza.jpg);
+    border: solid black 1px;
+    border-radius: 5px;
+    width: 250px;
+}
